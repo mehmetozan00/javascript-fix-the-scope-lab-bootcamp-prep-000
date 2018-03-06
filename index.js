@@ -31,8 +31,8 @@ var funkyFunction = function() {
 
 var theFunk = funkyFunction
 
-var bla = function(){
+var bla = function bla2(){
   return "hello world!"
 }
 
-console.log(bla)
+console.log(bla())
