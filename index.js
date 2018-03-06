@@ -36,4 +36,4 @@ var bla = function() {
   }
 }
 
-console.log(bla)
+console.log(bla())
